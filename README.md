@@ -12,7 +12,9 @@ A static website consisting of two pages: a 'portfolio' (index/main) and an 'abo
 
 * _Clone this repository_
 * _Open with text editor of your choice_
+
 _OR_
+
 * _View on GitHub Pages at: https://zacharymatthewstearn.github.io/portfolio/_
 
 ### License
