@@ -6,7 +6,7 @@
 
 ## Description
 
-_A static website consisting of two pages: a 'portfolio' (index/main) and an 'about me'. This site implements the 'p', 'h', 'ul', 'ol', 'li' 'em', 'strong', 'a', 'img', 'div', and 'span' HTML elements, as well as navbar, jumbotron, and grid Bootstrap classes. Custom CSS styling includes use of cascading, the box model, and floats.
+_A static website consisting of two pages: a 'portfolio' (index/main) and an 'about me'. This site implements the 'p', 'h', 'ul', 'ol', 'li' 'em', 'strong', 'a', 'img', 'div', and 'span' HTML elements, as well as navbar, jumbotron, and grid Bootstrap classes. Custom CSS styling includes use of cascading, the box model, and floats._
 
 ## Setup/Installation Requirements
 
@@ -17,7 +17,7 @@ _OR_
 
 ## Known Bugs
 
-_github pages giving 404 error for our/_Got/_page and vacation (occurs with manual navigation as well; not limited to the <a> tags in this project)_
+_github pages giving 404 error for our_Got_page and vacation (occurs with manual navigation as well; not limited to the <a> tags in this project)_
 
 ### License
 
