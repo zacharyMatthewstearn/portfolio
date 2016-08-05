@@ -6,7 +6,7 @@
 
 ## Description
 
-_!!!!!!!!UPDATE THIS ONCE YOU HAVE YOUR FEATURE-SET IMPLEMENTED, ZACK!!!!!!!!_
+_A static website consisting of two pages: a 'portfolio' (index/main) and an 'about me'. This site implements the 'p', 'h', 'ul', 'ol', 'li' 'em', 'strong', 'a', 'img', 'div', and 'span' HTML elements, as well as navbar, jumbotron, and grid Bootstrap classes. Custom CSS styling includes use of cascading, the box model, and floats.
 
 ## Setup/Installation Requirements
 
@@ -14,7 +14,10 @@ _!!!!!!!!UPDATE THIS ONCE YOU HAVE YOUR FEATURE-SET IMPLEMENTED, ZACK!!!!!!!!_
 * _Open with text editor of your choice_
 _OR_
 * _View on GitHub Pages at: http://www.zacharymatthewstearn.github.io/portfolio/_
-_!!!!!!!!!DOUBLE-CHECK THIS ONCE PUSHED!!!!!!!!!!_
+
+## Known Bugs
+
+_github pages giving 404 error for our/_Got/_page and vacation (occurs with manual navigation as well; not limited to the <a> tags in this project)_
 
 ### License
 
