@@ -15,10 +15,6 @@ A static website consisting of two pages: a 'portfolio' (index/main) and an 'abo
 _OR_
 * _View on GitHub Pages at: https://zacharymatthewstearn.github.io/portfolio/_
 
-## Known Bugs
-
-GitHub pages giving 404 error for our_Got_page and vacation (occurs with manual navigation as well; not limited to the <a> tags in this project)
-
 ### License
 
 Copyright (c) 2016 Zachary Matthewstearn
